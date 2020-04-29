@@ -15,7 +15,7 @@
 
 Webサイトのリポジトリは[こちら](https://github.com/yutaro-t/rt-live-japan-site)
 
-## 貢献者
+## 貢献について
 当サイトの制作・運用にご協力いただける方はお気軽にお問い合わせください。
 
 メール：rt.live.japan@gmail.com
