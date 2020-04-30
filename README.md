@@ -19,3 +19,9 @@ Webサイトのリポジトリは[こちら](https://github.com/yutaro-t/rt-live
 当サイトの制作・運用にご協力いただける方はお気軽にお問い合わせください。
 
 メール：rt.live.japan@gmail.com
+
+## ライセンス
+"Feel free to take this work and apply it elsewhere – internationally or to counties in the United States."
+
+本家ケビン氏のお言葉をそのまま受け継ぎます。
+お好きな用途でご活用ください。
